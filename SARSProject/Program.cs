@@ -6,7 +6,7 @@ namespace SARSProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello James!");
+            Console.WriteLine("Hello Sam!");
             Console.WriteLine("How are you doing?");
         }
     }
