@@ -1,0 +1,13 @@
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\bin\Debug\netcoreapp3.1\SARSProject.exe
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\bin\Debug\netcoreapp3.1\SARSProject.deps.json
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\bin\Debug\netcoreapp3.1\SARSProject.runtimeconfig.json
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\bin\Debug\netcoreapp3.1\SARSProject.runtimeconfig.dev.json
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\bin\Debug\netcoreapp3.1\SARSProject.dll
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\bin\Debug\netcoreapp3.1\SARSProject.pdb
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.csprojAssemblyReference.cache
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.AssemblyInfoInputs.cache
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.AssemblyInfo.cs
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.csproj.CoreCompileInputs.cache
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.dll
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.pdb
+C:\Users\ITAdmin\Desktop\MyProject\TeachersInfoApplication\SARSProject\obj\Debug\netcoreapp3.1\SARSProject.genruntimeconfig.cache
